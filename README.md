@@ -8,7 +8,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Live Site URL: [Click here]()
+- Live Site URL: [Click here](https://jamilpl.github.io/huddle-landing-page/)
 
 ### Built with
 
