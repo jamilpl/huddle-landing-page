@@ -218,6 +218,7 @@ body {
 .footer__social {
   display: flex;
   justify-content: center;
+  align-items: flex-start;
   gap: 2rem;
 }
 
