@@ -222,27 +222,24 @@ body {
 }
 
 .footer__icon {
+  text-decoration: none;
+}
+
+.fa-brands {
   width: 40px;
   height: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid #ffffff;
-  border-radius: 50%;
-  text-decoration: none;
-}
-
-.footer__icon:hover {
-  border-color: var(--pink);
-}
-
-.fa-brands {
   font-size: 1.9rem;
   color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 50%;
 }
 
 .fa-brands:hover {
   color: var(--pink);
+  border-color: var(--pink);
 }
 
 .footer__copyright {
